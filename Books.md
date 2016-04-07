@@ -1,5 +1,4 @@
-# Books_To_Read
-This is my memo of interesting books.
+# Books to read
 
 (1) "The Design of Everyday Things." Book by Don Norman
 
