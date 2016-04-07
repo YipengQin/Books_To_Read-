@@ -9,3 +9,5 @@ Chinese:
 (3) https://site.douban.com/179880/room/2113617/
 
 (4) http://www.cppblog.com/lai3d/archive/2009/09/11/95942.html
+
+(5) https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md
