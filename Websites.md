@@ -11,3 +11,7 @@ Chinese:
 (4) http://www.cppblog.com/lai3d/archive/2009/09/11/95942.html
 
 (5) https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md
+
+English:
+
+(1) http://www.cs.berkeley.edu/~jrs/speaking.html (Academic Talk)
