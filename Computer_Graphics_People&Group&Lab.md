@@ -1,6 +1,6 @@
 # Useful Links to People, Groups, or Labs in Computer Graphics Community
 by Yipeng Qin
-***
+
 ## North America
 ### Academia:
 
